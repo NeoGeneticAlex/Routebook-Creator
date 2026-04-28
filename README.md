@@ -82,7 +82,7 @@ License
 
 MIT License
 
-Copyright (c) 2026 Alexander Molenaar
+Copyright (c) 2026 NeoGeneticAlex
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -97,7 +97,7 @@ copies or substantial portions of the Software.
 Attribution is appreciated. If you use this software in a public or commercial
 project, please consider providing visible credit:
 
-"Roadbook Creator by Alexander Molenaar"
+"Roadbook Creator by NeoGeneticAlex"
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
